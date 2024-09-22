@@ -1,0 +1,6 @@
+{
+    "api_key": "your_api_key",
+    "api_secret": "your_api_secret",
+    "ws_url": "wss://www.deribit.com/ws/api/v2",
+    "instrument_name": "BTC-PERPETUAL"
+}
